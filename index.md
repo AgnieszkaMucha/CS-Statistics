@@ -2,7 +2,7 @@
 # Computer Science: Statistics and data handling
 
 ### Tutorials
-Wednesdays online on MSTeams with this [link](https://teams.microsoft.com/l/team/19%3a64495665b1504ac1872ec4277483834a%40thread.tacv2/conversations?groupId=c6095894-e8d9-49bd-b4f3-e1a955036a46&tenantId=80b1033f-21e0-4a82-bbc0-f05fdccd3bc8) 
+Mondays online on MSTeams with this [link](https://teams.microsoft.com/l/team/19%3a64495665b1504ac1872ec4277483834a%40thread.tacv2/conversations?groupId=c6095894-e8d9-49bd-b4f3-e1a955036a46&tenantId=80b1033f-21e0-4a82-bbc0-f05fdccd3bc8) 
 
 - Assigments for [15th of March 2021](/FILES/Tutorial_1.pdf) 
 - Assigments for [22th of March 2021](/FILES/Tutorial_2.pdf) 
