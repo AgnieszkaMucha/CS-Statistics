@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## AGH University of Science and Technology
+# Introduction to probability, statistics and data handling (ESA and UBPO)
 
-You can use the [editor on GitHub](https://github.com/AgnieszkaMucha/CS-Statistics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Tutorials
+Wednesdays online on MSTeams with this [link](https://teams.microsoft.com/l/team/19%3a3c0831d29f6b49dd8754afb0863cb075%40thread.tacv2/conversations?groupId=e08470b9-ecc7-42d5-90c9-cb1af728379f&tenantId=80b1033f-21e0-4a82-bbc0-f05fdccd3bc8) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Assigments for [3rd of March 2021](/FILES/Tutorial_1.pdf) 
+- Assigments for [10th of March 2021](/FILES/Tutorial_2.pdf) 
+- Assigments for [17th of March 2021](/FILES/Tutorial_3.pdf)
+- Assigments for [24th of March 2021](/FILES/Tutorial_4.pdf)
+- Assigments for [31st of March 2021](/FILES/Tutorial_5.pdf)
+- Assigments for [14th of April 2021](/FILES/Tutorial_6.pdf) 
+- Assigments for [21st of April 2021](/FILES/Tutorial_6.pdf) 
+- Assigments for [28th of April 2021](/FILES/Tutorial_7.pdf) 
+- Assigments for [5th of May 2021](/FILES/Tutorial_7.pdf) 
+- Assigments for [12th of May 2021](/FILES/Tutorial_7.pdf) 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Texbook: 
+- Introductory Statistics, OpenStax Access [online](https://openstax.org/details/introductory-statistics)
+- A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
+AGH University of Science and Technology Kraków, Poland <br>
+Faculty of Physics and Computer Science <br>
+D11 room 106 <br>
+ul. Kawiory 26a, 30-055 Kraków <br>
+phone 12 617 29 96 <br>
+mail: amucha@agh.edu.pl
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AgnieszkaMucha/CS-Statistics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
