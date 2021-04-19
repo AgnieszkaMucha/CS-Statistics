@@ -6,11 +6,11 @@ Mondays online on MSTeams with this [link](https://teams.microsoft.com/l/team/19
 
 - Assigments for [15th of March 2021](/FILES/Tutorial_1.pdf) 
 - Assigments for [22th of March 2021](/FILES/Tutorial_2.pdf) 
-- Assigments for [12th of April 2021](/FILES/Tutorial_3.pdf)
-- Assigments for [26th of April 2021](/FILES/Tutorial_4.pdf)
-- Assigments for [10th of May 2021](/FILES/Tutorial_5.pdf)
-- Assigments for [24th of May 2021](/FILES/Tutorial_6.pdf) 
-- Assigments for [7th of June 2021](/FILES/Tutorial_6.pdf) 
+- Assigments for [15th of April 2021](/FILES/Tutorial_3.pdf)
+- Assigments for [29th of April 2021](/FILES/Tutorial_4.pdf)
+- Assigments for [13th of May 2021](/FILES/Tutorial_5.pdf)
+- Assigments for [27th of May 2021](/FILES/Tutorial_6.pdf) 
+- Assigments for [10th of June 2021](/FILES/Tutorial_6.pdf) 
 
 ### Texbook: 
 - Introductory Statistics, OpenStax Access [online](https://openstax.org/details/introductory-statistics)
