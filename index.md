@@ -6,8 +6,8 @@ Students should have a valid AGH computer with access to AGH Google Disk:
 
 ### Lectures
 Lectures are held on Wednesdays from	11:30 - 13:00 room 108 building D10 (Reymonta 19). First meeting: 28.02.2024.
-- What is a statistic for? Conditional probability [Lecture](/FILES/cs_stat_1.pdf)
-- Random variable [Lecture](/FILES/cs_stat_2.pdf) 
+- What is a statistic for? Conditional probability [Lecture](/FILES/stat_CS_1.pdf)
+- Random variable [Lecture](/FILES/stat_CS_2.pdf) 
 - 2D Random Variable, standard RV, Chebyshev’s inequality [Lecture](/FILES/stat_3.pdf)
 - Bernouli, Poisson and Gaussian distributions  [Lecture](/FILES/stat_4-5.pdf)
 - Central Limit Theorem  [Lecture](/FILES/stat_6.pdf)  [Statistical tables](/FILES/StatistialTables.pdf) 
