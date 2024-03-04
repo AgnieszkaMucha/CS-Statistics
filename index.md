@@ -20,7 +20,7 @@ Lectures are held on Wednesdays from	11:30 - 13:00 room 108 building D10 (Reymon
 - Error Propagation Formula, PCA [Lecture](/FILES/corr_PCA.pdf)
 
 ### Tutorials
-- Assigments [1](/FILES/Tutorial_1.pdf) 
+- Assigments [1 - 6.03.2014](/FILES/tutorial-CS.pdf) 
 
 ### Laboratory
 1. First data analysis: 
