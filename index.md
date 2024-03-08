@@ -22,7 +22,7 @@ Lectures are held on Wednesdays from	11:30 - 13:00 room 108 building D10 (Reymon
 ### Tutorials
 - Assigments [1 - 6.03.2024](/FILES/tutorial1-CS.pdf)
 - Assigments [2 - 13.03.2024](/FILES/tutorial2-CS.pdf)
-- Assigments [3 - 20.03.2024](/FILES/tutorial3-CS.pdf) **
+- Assigments [3 - 20.03.2024](/FILES/tutorial3-CS.pdf)
 
 ### Laboratory
 1. First data analysis: 
