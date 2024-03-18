@@ -37,5 +37,5 @@ Assistant M.Sc. Saliha Bashir [mail](bashir@agh.edu.pl)  <br>
 AGH University of Kraków, Poland <br>
 Faculty of Physics and Applied Computer Science <br>
 D11 room 106 <br>
-ul. Kawiory 26a, 30-055 Kraków <br>
+ul. Kawiory 26a, 30-059 Kraków <br>
 phone +48 12 617 29 96 <br>
