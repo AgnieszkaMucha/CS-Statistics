@@ -22,13 +22,14 @@ Lectures are held on Wednesdays from	11:30 - 13:00 room 108 building D10 (Reymon
 - Assigments [1 - 6.03.2024](/FILES/tutorial1-CS.pdf)
 - Assigments [2 - 13.03.2024](/FILES/tutorial2-CS.pdf)
 - Assigments [3 - 20.03.2024](/FILES/tutorial3-CS.pdf)
+- Assigments [4 - 27.03.2024](/FILES/tutorial4-CS.pdf)
 
 ### Laboratory
 1. First data analysis: 
 
-### Texbooks: 
+### Textbooks: 
 - Introductory Statistics, OpenStax Access [online](https://openstax.org/details/introductory-statistics)
-- A modern introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
+- A Modern Introduction to Probability and Statistics F.M. Dekking, C. Kraaikamp, H.P. Lopuhaa, L.E. Meester, Springer 2005
 
 
 ### Contact 
